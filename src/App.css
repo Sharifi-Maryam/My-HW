@@ -1,0 +1,30 @@
+body,html{
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+.App {
+  text-align: center;
+  display: flex;
+  background: #2b613e;
+  max-width: 40rem;
+  width: 100%;
+  height: 20rem;
+  border-radius: 2rem;
+  padding: 2rem;
+}
+
+.App img{
+  width: 100%;
+  border-radius: 2rem;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #9bbda7;
+  width: 100%;
+ 
+}
